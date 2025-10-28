@@ -22,7 +22,7 @@ This is a **learning project** I built to understand AI integration, React devel
 
 1. **Clone & Install**
 git clone https://github.com/mehrap67/Chatty.git
-cd chatty-ai
+cd Chatty
 npm install
 
 text
