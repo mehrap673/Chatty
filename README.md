@@ -21,7 +21,7 @@ This is a **learning project** I built to understand AI integration, React devel
 ## 🚀 Quick Start
 
 1. **Clone & Install**
-git clone https://github.com/mehrap67/chatty.git
+git clone https://github.com/mehrap67/Chatty.git
 cd chatty-ai
 npm install
 
